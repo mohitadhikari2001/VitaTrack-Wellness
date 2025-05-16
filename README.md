@@ -20,7 +20,7 @@ The main goal of this dashboard is to present clear, actionable health insights 
 
 🚬 Smoking and 🍷 alcohol consumption patterns
 
-🛠️ Tools & Skills Used
+🛠️ Tools & Skills Used:-
 Power BI
 
 DAX (calculated columns & measures)
@@ -41,7 +41,7 @@ VitaTrack_Wellness.pbix – Power BI dashboard file
 
 README.md – Project documentation
 
-screenshots/ – Dashboard visuals (optional)
+screenshots/ – Dashboard visuals
 
 🚀 How to Use
 Download or clone this repository
@@ -64,9 +64,5 @@ Creating clean and focused visual narratives
 🔗 Connect With Me
 I’m currently looking for data analyst internships and entry-level opportunities.
 
-📧 Email: your-email@example.com
-💼 LinkedIn: linkedin.com/in/mohit-singh-adhikari
-📊 More Projects: GitHub Portfolio
-
-📎 Tags
-Power BI Data Analytics Healthcare Dashboard Portfolio Project Wellness Analytics DAX Visualization
+📧 Email: mohitsinghadhikari04@gmail.com
+💼 LinkedIn: www.linkedin.com/in/mohit-singh-adhikari04
