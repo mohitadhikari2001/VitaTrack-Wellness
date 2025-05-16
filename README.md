@@ -1,6 +1,6 @@
 VitaTrack Wellness – Power BI Health Insights Dashboard
 
-![VitaTrack Wellness Dashboard](VitaTrack Wellness 03.png)
+![VitaTrack Wellness Dashboard](VitaTrackimage.png)
 
 📊 Project Overview
 This project is an interactive Power BI dashboard built for VitaTrack Wellness, a fictional health & wellness platform. It analyzes user lifestyle and biometric data to deliver insights into health risks, behaviors, and wellness trends.
