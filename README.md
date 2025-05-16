@@ -7,7 +7,7 @@ This project is an interactive Power BI dashboard built for VitaTrack Wellness, 
 
 The main goal of this dashboard is to present clear, actionable health insights that can support decision-making for users or wellness professionals.
 
-
+.
 📌 Key Insights Covered
 🧍 BMI variation by age and gender
 
@@ -21,7 +21,7 @@ The main goal of this dashboard is to present clear, actionable health insights 
 
 🚬 Smoking and 🍷 alcohol consumption patterns
 
-
+.
 🛠️ Tools & Skills Used:-
 Power BI
 
@@ -33,12 +33,12 @@ Custom Visuals & Slicers for interactivity
 
 Data Storytelling with KPIs and segmentation
 
-
+.
 📷 Dashboard Preview
 
 ![VitaTrack Wellness Dashboard](VitaTrackimage.png)
 
-
+.
 
 📂 Files Included
 VitaTrack_Wellness.pbix – Power BI dashboard file
@@ -47,6 +47,7 @@ README.md – Project documentation
 
 screenshots/ – Dashboard visuals
 
+.
 
 🚀 How to Use
 Download or clone this repository
@@ -57,6 +58,7 @@ Explore visualizations, slicers, and insights
 
 Customize or connect your own health dataset if desired
 
+.
 
 🧠 Learning Outcome
 This project helped me strengthen my skills in:
@@ -67,10 +69,12 @@ Applying analytical thinking to health-related data
 
 Creating clean and focused visual narratives
 
+.
 
 🔗 Connect With Me
 I’m currently looking for data analyst internships and entry-level opportunities.
 
+.
 
 📧 Email: mohitsinghadhikari04@gmail.com
 💼 LinkedIn: www.linkedin.com/in/mohit-singh-adhikari04
