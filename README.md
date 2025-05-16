@@ -1,81 +1,69 @@
-🧠 VitaTrack Wellness Dashboard
+VitaTrack Wellness – Power BI Health Insights Dashboard
 
-🌟 Overview
-Welcome to the VitaTrack Wellness Dashboard — your comprehensive visual hub for understanding lifestyle patterns, biometric metrics, and associated health risks across a population.
+📊 Project Overview
+This project is an interactive Power BI dashboard built for VitaTrack Wellness, a fictional health & wellness platform. It analyzes user lifestyle and biometric data to deliver insights into health risks, behaviors, and wellness trends.
 
-This Power BI dashboard provides insights into how daily habits like sleep, exercise, diet, and smoking/alcohol usage correlate with wellness indicators such as BMI, heart rate, and disease risk. It's interactive, cleanly designed, and user-friendly for both healthcare analysts and lifestyle researchers.
+The main goal of this dashboard is to present clear, actionable health insights that can support decision-making for users or wellness professionals.
 
-📊 Dashboard Highlights
-🔍 Key Metrics
-🧮 Avg. Calorie Intake: 2,327 kcal/day
+📌 Key Insights Covered
+🧍 BMI variation by age and gender
 
-🚶 Avg. Daily Steps: 10,717 steps
+❤️ Heart disease risk comparison (Male vs Female)
 
-😴 Avg. Sleep Duration: 6.9 hours
+🧠 Health segmentation: High Risk, Moderate, Active
 
-👥 Health Segmentation
-High Risk: 73.7%
+🏃‍♂️ Exercise impact on heart rate and blood pressure
 
-Moderate: 19.7%
+💤 Lifestyle metrics: average sleep, calorie intake, steps
 
-Active: 6.6%
+🚬 Smoking and 🍷 alcohol consumption patterns
 
-❤️ Heart Disease Risk
-Clear breakdown of risk across genders
+🛠️ Tools & Skills Used
+Power BI
 
-Males: 51 at risk, 472 not at risk
+DAX (calculated columns & measures)
 
-Females: 42 at risk, 435 not at risk
+Data Modeling (relationships, transformations)
 
-🧍‍♂️ BMI Across Age & Gender
-Interactive bar chart tracking BMI variation across ages for males and females.
+Custom Visuals & Slicers for interactivity
 
-🧬 Lifestyle Indicators
-Smoking: 19.1% users identified as smokers
+Data Storytelling with KPIs and segmentation
 
-Alcohol Consumption: Slightly higher in females than males
+📷 Dashboard Preview
 
-Exercise vs. Heart Rate & BP: Trends show a compelling inverse relationship.
+Complete view of the VitaTrack Wellness Dashboard
 
-🧩 Interactive Filters
-Use the User ID dropdown filter to drill down into specific user-level data.
-All visuals update dynamically!
+📂 Files Included
+VitaTrack_Wellness.pbix – Power BI dashboard file
 
-⚙️ Tech Stack
-Tool: Power BI
+README.md – Project documentation
 
-Data Sources: Lifestyle logs, biometric sensors, self-reported metrics
-
-Design Focus: Dark theme, accessibility, responsive layout
+screenshots/ – Dashboard visuals (optional)
 
 🚀 How to Use
-Clone or download this repo.
+Download or clone this repository
 
-Open the Power BI .pbix file in Power BI Desktop.
+Open VitaTrack_Wellness.pbix in Power BI Desktop
 
-Filter using the User ID dropdown to analyze specific individuals.
+Explore visualizations, slicers, and insights
 
-Hover over graphs for tooltips and micro-insights.
+Customize or connect your own health dataset if desired
 
-🎯 Insights You Can Extract
-Identify users at risk of heart disease or obesity.
+🧠 Learning Outcome
+This project helped me strengthen my skills in:
 
-Correlate exercise levels with cardiovascular health.
+Designing user-friendly dashboards
 
-Understand how lifestyle factors like sleep, smoking, and alcohol affect wellness.
+Applying analytical thinking to health-related data
 
-Generate personalized wellness suggestions based on patterns.
+Creating clean and focused visual narratives
 
-📌 Potential Improvements
-Add date filters for time series trends
+🔗 Connect With Me
+I’m currently looking for data analyst internships and entry-level opportunities.
 
-Integrate predictive analytics (e.g., risk forecasting)
+📧 Email: your-email@example.com
+💼 LinkedIn: linkedin.com/in/mohit-singh-adhikari
+📊 More Projects: GitHub Portfolio
 
-Embed live data sources for real-time monitoring
-
-🙌 Contributions
-Want to improve this dashboard or add new features? Fork the repo, make your changes, and submit a pull request. Let’s build healthier insights together!
-
-📫 Connect
-Built by Mohit Singh Adhikari
-Feel free to connect with me on LinkedIn or shoot a message for collaboration!
+📎 Tags
+Power BI Data Analytics Healthcare Dashboard Portfolio Project Wellness Analytics DAX Visualization
