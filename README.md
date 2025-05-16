@@ -33,7 +33,8 @@ Data Storytelling with KPIs and segmentation
 
 📷 Dashboard Preview
 
-Complete view of the VitaTrack Wellness Dashboard
+![VitaTrack Wellness Dashboard](VitaTrackimage.png)
+
 
 📂 Files Included
 VitaTrack_Wellness.pbix – Power BI dashboard file
